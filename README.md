@@ -5,7 +5,7 @@
 V této části najdete souhrn všech hodin, odkazy na videa, odkazy ke kódu a také pár poznámek k výuce. 
 
 ### Vyzkoušej si programování - bez instalace | 1. lekce 
-- video: 
+- video: https://www.youtube.com/watch?v=aXqeAY-E7vo
 - kód k úkolu na replit.com: https://replit.com/@LucieLenertova/Welcome-to-Python-and-Turtle
 - kód k úkolu na github.com: https://github.com/lenertovalucie/01_Welcome-to-Python-and-Turtle
 
