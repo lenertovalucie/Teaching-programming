@@ -16,6 +16,24 @@ V této části najdete souhrn všech hodin, odkazy na videa, odkazy ke kódu a 
 ### První program  - řetězce a print funkce | 2. lekce
 - připravuje se...
 
+### Hrubá osnova kurzu
+1. Vyzkoušej si programování - bez znalostí, bez instalace
+2. První program - řetězce a print funkce
+3. Proměnné
+4. Input, sčítání řetězců
+5. Tnteger, float, matematické operace
+6. Boolean, datove typy
+7. Podmínky - if, else
+8. Podmínky - elif
+9. While cyklus
+10. Seznamy, indexy
+11. Seznamy, základní operace se seznamy
+12. For cyklus
+13. Funkce bez return
+14. Funkce s return
+15. Podmínky v cyklu
+16. Zanořené podmínky
+
 ### Poznámky k replit.com
 Pokud přemýšlíte, zda máte pro vaši výuku programování v Pythonu využít Replit nebo zda raději Python nainstalovat, zde uvádím pár výhod Replitu (podle vlastní zkušenosti)
 - není potřeba nic instalovat, nemusíte řešit verze Pythonu, instalace na domácích počítačích studentů
