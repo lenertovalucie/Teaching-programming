@@ -13,12 +13,14 @@ V této části najdete souhrn všech hodin, odkazy na videa, odkazy ke kódu a 
 - na úkol cca 15 minut (pro ty, co stihnout dříve, je určena výzva a výzva 2)
 - práce ve skupinkách (2-3) baví většinu žáku více než samostatná práce
 
-### První program  - řetězce a print funkce | 2. lekce
-- připravuje se...
+### Print funkce, řetězce, komentáře | 2. lekce
+- video: 
+- kód k úkolu na replit.com: https://replit.com/@LucieLenertova/First-program-string-print
+- kód k úkolu na github.com: https://github.com/lenertovalucie/02_First-program-string-print
 
 ### Hrubá osnova kurzu
 1. Vyzkoušej si programování - bez znalostí, bez instalace
-2. První program - řetězce a print funkce
+2. Print funkce, řetězce, komentáře
 3. Proměnné
 4. Input, sčítání řetězců
 5. Tnteger, float, matematické operace
