@@ -14,7 +14,7 @@ V této části najdete souhrn všech hodin, odkazy na videa, odkazy ke kódu a 
 - práce ve skupinkách (2-3) baví většinu žáku více než samostatná práce
 
 ### Print funkce, řetězce, komentáře | 2. lekce
-- video: 
+- video: https://www.youtube.com/watch?v=SlL-SSI0iAY
 - kód k úkolu na replit.com: https://replit.com/@LucieLenertova/First-program-string-print
 - kód k úkolu na github.com: https://github.com/lenertovalucie/02_First-program-string-print
 
