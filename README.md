@@ -18,6 +18,10 @@ V této části najdete souhrn všech hodin, odkazy na videa, odkazy ke kódu a 
 - kód k úkolu na replit.com: https://replit.com/@LucieLenertova/First-program-string-print
 - kód k úkolu na github.com: https://github.com/lenertovalucie/02_First-program-string-print
 
+### Proměnné - vytvoření, změna, pojmenování | 3. lekce (Python pro začátečníky)
+- video:
+- odkazy k úkolům, kvízům jsou pak pod YT videem
+
 ### Hrubá osnova kurzu
 1. Vyzkoušej si programování - bez znalostí, bez instalace
 2. Print funkce, řetězce, komentáře
