@@ -19,7 +19,7 @@ V této části najdete souhrn všech hodin, odkazy na videa, odkazy ke kódu a 
 - kód k úkolu na github.com: https://github.com/lenertovalucie/02_First-program-string-print
 
 ### Proměnné - vytvoření, změna, pojmenování | 3. lekce (Python pro začátečníky)
-- video:
+- video: https://www.youtube.com/watch?v=-M6kI-H5GmY
 - odkazy k úkolům, kvízům jsou pak pod YT videem
 
 ### Hrubá osnova kurzu
