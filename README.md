@@ -40,6 +40,18 @@ V této části najdete souhrn všech hodin, odkazy na videa, odkazy ke kódu a 
 15. Podmínky v cyklu
 16. Zanořené podmínky
 
+### Popis lekcí
+
+Lekce programování, které bych chtěla připravit pomocí YT videí, by měly splňovat tyto podmínky:
+- 20 lekcí (jedna cca na 1 vyučovací hodinu) - obsah podle tématickeho celku Algoritmizace a programování v RVP G, více zde: https://www.imysleni.cz/svp/svp-g
+- bez odborných pojmů (pokud jsou nutné, tak důkladně vysvětlit), žák by měl co nejdříve začit programovat --> nezahltit studenta teorií
+- nové koncepty (proměnné, seznamy, OOP) vysvětlit pomocí obrázků, náčrtů, videí atd, např. OOP pomoci Pokemonů (vlastnosti a metody) --> spojit látku s tím, co už znají
+- využít reálných příkladů (ne do seznamu přidej hodnotu 1, ale vytvoř seznam oblíbených her a do nich přidej další) --> spojit látku s tím, co už znají
+- studenti by měli prvně číst, porozumět a modifikovat cizí kód a až poté vytvářet vlastní, ne opačně, jak je vidět ve většině tutoriálech, kde se probere teorie a studenti rovnou píši vlastní kód (příklad z praxe: seznamy, které byly probrany pomocí této techniky, studenti ovládli nejlépe a také je úkoly velmi bavily)
+- využít vizuálního programování (např. knihovna Turtle) - díky tomu studenti vidí, co se děje v pozadí programu
+- zaměřit se na to, aby student uměl co nejdříve otestovat svuj kod (print funkce, později debugger), uměl číst chybové hlášky a využít je ve svůj prospěch, studenti pak nejsou tolik frustrováni tím, když jim něco nefunguje
+- exit tickety - studenti maji rádi, když si můžou na konci hodiny látku shrnout a zopakovat (pro učitele zase nedocenitelná zpětná vazba)
+
 ### Poznámky k replit.com
 Pokud přemýšlíte, zda máte pro vaši výuku programování v Pythonu využít Replit nebo zda raději Python nainstalovat, zde uvádím pár výhod Replitu (podle vlastní zkušenosti)
 - není potřeba nic instalovat, nemusíte řešit verze Pythonu, instalace na domácích počítačích studentů
