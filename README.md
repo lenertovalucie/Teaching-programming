@@ -22,6 +22,8 @@ V této části najdete souhrn všech hodin, odkazy na videa, odkazy ke kódu a 
 - video: https://www.youtube.com/watch?v=-M6kI-H5GmY
 - odkazy k úkolům, kvízům jsou pak pod YT videem
 
+### Vytvoř chatbota - input funkce, sčítání řetězců | 4. lekce (Python pro začátečníky)
+
 ### Hrubá osnova kurzu
 1. Vyzkoušej si programování - bez znalostí, bez instalace
 2. Print funkce, řetězce, komentáře
