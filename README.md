@@ -23,8 +23,12 @@ V této části najdete souhrn všech hodin, odkazy na videa, odkazy ke kódu a 
 - odkazy k úkolům, kvízům jsou pak pod YT videem
 
 ### Vytvoř chatbota - input, spojování řetězců | 4. lekce (Python pro začátečníky)
+https://www.youtube.com/watch?v=EJC2xXvk4b4
+- odkazy k úkolům, kvízům jsou pak pod YT videem
 
 ### Vytvářej kalkulačky - čísla, přetypování | 5. lekce (Python pro začátečníky)
+https://www.youtube.com/watch?v=a_bg2pAu2Os
+- odkazy k úkolům, kvízům jsou pak pod YT videem
 
 ### Hrubá osnova kurzu
 1. Vyzkoušej si programování - bez znalostí, bez instalace
