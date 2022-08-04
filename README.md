@@ -36,9 +36,9 @@ https://www.youtube.com/watch?v=a_bg2pAu2Os
 3. Proměnné
 4. Input, sčítání řetězců
 5. Integer, float, matematické operace
-6. Boolean, datove typy
-7. Podmínky - if, else
-8. Podmínky - elif
+6. Podmínky - if, else
+7. Podmínky - elif
+8. Logické operátory, složitější podmínky
 9. While cyklus
 10. Seznamy, indexy
 11. Seznamy, základní operace se seznamy
