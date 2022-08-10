@@ -30,6 +30,10 @@ https://www.youtube.com/watch?v=EJC2xXvk4b4
 https://www.youtube.com/watch?v=a_bg2pAu2Os
 - odkazy k úkolům, kvízům jsou pak pod YT videem
 
+### Podmínky (if, else), boolean | 6. lekce (Python pro začátečníky)
+https://youtu.be/UE6wkBqmZPg
+- odkazy k úkolům, kvízům jsou pak pod YT videem
+
 ### Hrubá osnova kurzu
 1. Vyzkoušej si programování - bez znalostí, bez instalace
 2. Print funkce, řetězce, komentáře
