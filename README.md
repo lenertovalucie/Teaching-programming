@@ -39,18 +39,18 @@ https://youtu.be/UE6wkBqmZPg
 2. Print funkce, řetězce, komentáře
 3. Proměnné
 4. Input, sčítání řetězců
-5. Integer, float, matematické operace
+5. Čísla, přetypování
 6. Podmínky - if, else
 7. Podmínky - elif
 8. Logické operátory, složitější podmínky
 9. While cyklus
-10. Seznamy, indexy
-11. Seznamy, základní operace se seznamy
-12. For cyklus
-13. Funkce bez return
-14. Funkce s return
-15. Podmínky v cyklu
-16. Zanořené podmínky
+10. For cyklus
+11. Řetězce, základní operace s řetězci, formátování 
+12. Seznamy, indexy
+13. Seznamy, základní operace se seznamy
+14. For cyklus
+15. Funkce bez return
+16. Funkce s return
 
 ### Popis lekcí
 
