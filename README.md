@@ -48,9 +48,8 @@ https://youtu.be/UE6wkBqmZPg
 11. Řetězce, základní operace s řetězci, formátování 
 12. Seznamy, indexy
 13. Seznamy, základní operace se seznamy
-14. For cyklus
-15. Funkce bez return
-16. Funkce s return
+14. Funkce bez return
+15. Funkce s return
 
 ### Popis lekcí
 
