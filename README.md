@@ -2,12 +2,11 @@
 
 ## Python pro začátečníky - poznámky pro učitele
 
-V této části najdete souhrn všech hodin, odkazy na videa, odkazy ke kódu a také pár poznámek k výuce. 
+V této části najdete souhrn všech hodin a odkazy na videa.
+Odkazy k úkolům, kvízům jsou pak pod YT videem
 
 ### Vyzkoušej si programování - bez instalace | 1. lekce 
 - video: https://www.youtube.com/watch?v=aXqeAY-E7vo
-- kód k úkolu na replit.com: https://replit.com/@LucieLenertova/Welcome-to-Python-and-Turtle
-- kód k úkolu na github.com: https://github.com/lenertovalucie/01_Welcome-to-Python-and-Turtle
 
 #### Poznámky k úkolu:
 - na úkol cca 15 minut (pro ty, co stihnout dříve, je určena výzva a výzva 2)
@@ -15,24 +14,27 @@ V této části najdete souhrn všech hodin, odkazy na videa, odkazy ke kódu a 
 
 ### Print funkce, řetězce, komentáře | 2. lekce
 - video: https://www.youtube.com/watch?v=SlL-SSI0iAY
-- kód k úkolu na replit.com: https://replit.com/@LucieLenertova/First-program-string-print
-- kód k úkolu na github.com: https://github.com/lenertovalucie/02_First-program-string-print
+- dále syntaktické chyby
 
 ### Proměnné - vytvoření, změna, pojmenování | 3. lekce (Python pro začátečníky)
 - video: https://www.youtube.com/watch?v=-M6kI-H5GmY
-- odkazy k úkolům, kvízům jsou pak pod YT videem
+- dále NameError
 
 ### Vytvoř chatbota - input, spojování řetězců | 4. lekce (Python pro začátečníky)
 https://www.youtube.com/watch?v=EJC2xXvk4b4
-- odkazy k úkolům, kvízům jsou pak pod YT videem
+- dále úvod do funkcí a zalomení řádku
 
 ### Vytvářej kalkulačky - čísla, přetypování | 5. lekce (Python pro začátečníky)
 https://www.youtube.com/watch?v=a_bg2pAu2Os
-- odkazy k úkolům, kvízům jsou pak pod YT videem
+- dále ValueError a TypeError
 
 ### Podmínky (if, else), boolean | 6. lekce (Python pro začátečníky)
-https://youtu.be/UE6wkBqmZPg
-- odkazy k úkolům, kvízům jsou pak pod YT videem
+https://www.youtube.com/watch?v=UE6wkBqmZPg
+- také IndentationError
+
+### Podmínky (elif), srovnávací operátory | 7. lekce (Python pro začátečníky)
+https://www.youtube.com/watch?v=s2mJKvEJoc4&t
+- také testování a logické chyby
 
 ### Hrubá osnova kurzu
 1. Vyzkoušej si programování - bez znalostí, bez instalace
