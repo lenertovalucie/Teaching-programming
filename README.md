@@ -36,6 +36,9 @@ https://www.youtube.com/watch?v=UE6wkBqmZPg
 https://www.youtube.com/watch?v=s2mJKvEJoc4&t
 - také testování a logické chyby
 
+### Logické operátory | 8. lekce (Python pro začátečníky)
+https://www.youtube.com/watch?v=Cc-gg521oIE
+
 ### Hrubá osnova kurzu
 1. Vyzkoušej si programování - bez znalostí, bez instalace
 2. Print funkce, řetězce, komentáře
