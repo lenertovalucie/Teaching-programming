@@ -49,12 +49,14 @@ https://www.youtube.com/watch?v=Cc-gg521oIE
 7. Podmínky - elif
 8. Logické operátory, složitější podmínky
 9. While cyklus
+Nepovinný projekt
 10. For cyklus
 11. Řetězce, základní operace s řetězci, formátování 
 12. Seznamy, indexy
 13. Seznamy, základní operace se seznamy
 14. Funkce bez return
 15. Funkce s return
+Nepovinný projekt
 
 ### Popis lekcí
 
