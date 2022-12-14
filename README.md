@@ -39,6 +39,8 @@ https://www.youtube.com/watch?v=s2mJKvEJoc4&t
 ### Logické operátory | 8. lekce (Python pro začátečníky)
 https://www.youtube.com/watch?v=Cc-gg521oIE
 
+Již je k dipozici všech 14 videí !
+
 ### Hrubá osnova kurzu
 1. Vyzkoušej si programování - bez znalostí, bez instalace
 2. Print funkce, řetězce, komentáře
